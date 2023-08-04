@@ -24,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![active-state](https://raw.github.com/Alokray007/Results-summary-component-FM/edit/main/screenshoots/resultsummary-active.png?raw=true)
-![Desktop](./screenshoots/resultsummary-desktop.png?raw=true)
-![Mobile](./screenshoots/resultsummary-phone.png?raw=true)
+![active-state](https://raw.github.com/Alokray007/Results-summary-component-FM/main/screenshoots/resultsummary-active.png?raw=true)
+![Desktop](https://raw.github.com/Alokray007/Results-summary-component-FM/main/screenshoots/resultsummary-desktop.png?raw=true)
+![Mobile](https://raw.github.com/Alokray007/Results-summary-component-FM/main/screenshoots/resultsummary-phone.png?raw=true)
 
 ### Links
 
-- Solution URL: [https://github.com/Alokray007/Results-summary-component-FM](https://your-solution-url.com)
-- Live Site URL: [resultsummarycomp.netlify.app](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Alokray007/Results-summary-component-FM)
+- Live Site URL: [netlify](https://resultsummarycomp.netlify.app/)
 
 ### Built with
 
@@ -47,5 +47,4 @@ I learned about CSS variables and css calc function which made the work very eas
 
 ## Author
 
-- Website - [Alok Suman](https://www.your-site.com)
-- Frontend Mentor - [@Alokray007](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Alokray007](https://www.frontendmentor.io/profile/Alokray007)
