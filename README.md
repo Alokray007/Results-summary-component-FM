@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![active-state](./screenshoots/resultsummary-active.png?raw=true "Optional Title")
-![Desktop](./screenshoots/resultsummary-desktop.png?raw=true "Optional Title")
-![Mobile](./screenshoots/resultsummary-phone.png?raw=true "Optional Title")
+![active-state](https://raw.github.com/Alokray007/Results-summary-component-FM/edit/main/screenshoots/resultsummary-active.png?raw=true)
+![Desktop](./screenshoots/resultsummary-desktop.png?raw=true)
+![Mobile](./screenshoots/resultsummary-phone.png?raw=true)
 
 ### Links
 
