@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshoots/resultsummary-active.png)
-![](./screenshoots/resultsummary-desktop.png)
-![](./screenshoots/resultsummary-phone.png)
+![active-state](./screenshoots/resultsummary-active.png?raw=true "Optional Title")
+![Desktop](./screenshoots/resultsummary-desktop.png?raw=true "Optional Title")
+![Mobile](./screenshoots/resultsummary-phone.png?raw=true "Optional Title")
 
 ### Links
 
